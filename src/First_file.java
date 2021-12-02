@@ -11,7 +11,7 @@ public class First_file {
     ==============
     	String name= "Abdullah";
 		
-    >>>>>>>>>>>rollno
+    >>>>>>>>>>>roll no
     	String rollno = "20i-0930";
 		System.out.println("Name: " + name);
 		System.out.println("RollNo: " + rollno);
